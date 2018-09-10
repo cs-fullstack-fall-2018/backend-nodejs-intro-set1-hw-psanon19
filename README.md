@@ -22,7 +22,10 @@ D. a set of browser tools
 3. Which if the following is the correct way to pull in code from another module in NodeJS?
 
 ```
-let A1 = import("A")
-let B = require("../B.js")
-let [C] = function() {include("C");}
+A. let A1 = import("A")
+B. let B = require("../B.js")
+C. let [C] = function() {include("C");}
 ```
+***B***
+***C***
+***B***
